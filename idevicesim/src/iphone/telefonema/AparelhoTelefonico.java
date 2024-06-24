@@ -1,4 +1,4 @@
-package iphone;
+package iphone.telefonema;
 
 public class AparelhoTelefonico {
     public void ligar(String numero){
